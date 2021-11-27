@@ -1,6 +1,6 @@
 # Contract Sizes with Indexed vs Normal Logs
 
-This repo shows two contracts which emit the same events, except LoggerBig uses a normal event parameter, and LoggerSmall uses an indexed parameters.
+This repo shows two contracts which emit the same events, except LoggerBig uses a normal event parameter, and LoggerSmall uses an indexed parameter.
 
 ## Running
 To profile the contract bytecode size, run:
